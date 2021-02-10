@@ -267,14 +267,45 @@ space {
 #title{
   margin-bottom: 3%;
   horiz-align: center;
+  font-size: 60px;
+  color: #EEEEE2;
+}
+
+h4{
+  font-size: 40px;
+  color: #EEEEE2;
 }
 
 li {
-  font-size: 20px;
-
+  font-size: 30px;
+  color: #EEEEE2;
 }
+
 
 *{
   margin-top: 2%;
   margin-bottom: 2%;
+  }
+
+body, html{
+  height: 100%;
 }
+
+.bg{
+  background-image: url("../img/2379010.jpg");
+  height: 100%;
+  background-position: center;
+  background-size: cover;
+}
+.meme{
+  background-position: center;
+  background-size: cover;
+  width: 85%;
+  height: 85%;
+}
+
+.halvor {
+  font-size: 15px;
+  color: #EEEEE2;
+}
+
