@@ -278,8 +278,9 @@ h4{
 
 li {
   font-size: 30px;
-  color: #FA9D00;
-}
+  color: #EEEEE2;
+  padding: 2px;
+  }
 
 
 *{
@@ -306,6 +307,10 @@ body, html{
 
 .halvor {
   font-size: 24px;
+  color: #EEEEE2;
+}
+mark{
+  background-color: rgba(0,0,0,0.7);
   color: #EEEEE2;
 }
 
