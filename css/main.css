@@ -292,7 +292,7 @@ body, html{
 }
 
 .bg{
-  background-image: url("./img/2379010.jpg");
+  background-image: url("../img/2379010.jpg");
   height: 100%;
   background-position: center;
   background-size: cover;
